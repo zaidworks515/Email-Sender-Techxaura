@@ -1,0 +1,5 @@
+secure-smtplib 
+email-validator
+python-dotenv
+openpyxl
+pandas
